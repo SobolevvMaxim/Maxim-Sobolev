@@ -2,4 +2,4 @@
 
 Student at [BSUIR](https://www.bsuir.by/en/)
 
-Open to work - [CV Junior Android Developer](https://github.com/SobolevvMaxim/Maxim-Sobolev/blob/main/CV%20Sobolev%20Maxim%20Android%20Developer.pdf)
+Open to work - [CV Junior Android Developer](https://github.com/SobolevvMaxim/SobolevvMaxim/blob/main/CV%20Junior%20Anroid%20Developer%20Maxim%20Sobolev.pdf)
